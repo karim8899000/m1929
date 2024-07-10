@@ -34,7 +34,7 @@ admin = ida
 
 
 ADMIN_ID = ida
-CHANNELS = [ "@NET_FFREE","@CC_R77"] 
+CHANNELS = [ "@TGT_3","@NET_FFREE","@CC_R77"] 
 
 
 
